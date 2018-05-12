@@ -1,0 +1,40 @@
+_repo: HannibalMakers-of-History_27551
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2008-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Punic War, 2nd, 218-201 B.C. -- Juvenile literature'
+- !lcsh 'Rome -- History -- Republic, 265-30 B.C. -- Juvenile literature'
+- !lcc 'DG'
+- !lcsh 'Generals -- Tunisia -- Carthage (Extinct city) -- Biography -- Juvenile literature'
+- !lcsh 'Hannibal, 247-182 B.C. -- Juvenile literature'
+- !lcsh 'Carthage (Extinct city) -- History -- Juvenile literature'
+tableOfContents: The First Punic War -- Hannibal at Saguntum -- Opening of the Second
+  Punic War -- The passage of the Rhone -- Hannibal crosses the Alps -- Hannibal in
+  the north of Italy -- The Apennines -- The dictator Fabius -- The Battle of Cannae
+  -- Scipio -- Hannibal a fugitive and an exile -- The destruction of Carthage.
+title: 'Hannibal
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/27551
